@@ -1,0 +1,4 @@
+vagrant-templates
+=================
+
+Example vagrant 
